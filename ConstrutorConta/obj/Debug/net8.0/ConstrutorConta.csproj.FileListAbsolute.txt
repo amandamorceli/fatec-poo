@@ -1,0 +1,42 @@
+C:/Users/aluno/Downloads/OneDrive_2024-09-02/POO noite/ConstrutorConta/bin/Debug/net8.0/ConstrutorConta.exe
+C:/Users/aluno/Downloads/OneDrive_2024-09-02/POO noite/ConstrutorConta/bin/Debug/net8.0/ConstrutorConta.deps.json
+C:/Users/aluno/Downloads/OneDrive_2024-09-02/POO noite/ConstrutorConta/bin/Debug/net8.0/ConstrutorConta.runtimeconfig.json
+C:/Users/aluno/Downloads/OneDrive_2024-09-02/POO noite/ConstrutorConta/bin/Debug/net8.0/ConstrutorConta.dll
+C:/Users/aluno/Downloads/OneDrive_2024-09-02/POO noite/ConstrutorConta/bin/Debug/net8.0/ConstrutorConta.pdb
+C:/Users/aluno/Downloads/OneDrive_2024-09-02/POO noite/ConstrutorConta/obj/Debug/net8.0/ConstrutorConta.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/aluno/Downloads/OneDrive_2024-09-02/POO noite/ConstrutorConta/obj/Debug/net8.0/ConstrutorConta.AssemblyInfoInputs.cache
+C:/Users/aluno/Downloads/OneDrive_2024-09-02/POO noite/ConstrutorConta/obj/Debug/net8.0/ConstrutorConta.AssemblyInfo.cs
+C:/Users/aluno/Downloads/OneDrive_2024-09-02/POO noite/ConstrutorConta/obj/Debug/net8.0/ConstrutorConta.csproj.CoreCompileInputs.cache
+C:/Users/aluno/Downloads/OneDrive_2024-09-02/POO noite/ConstrutorConta/obj/Debug/net8.0/ConstrutorConta.dll
+C:/Users/aluno/Downloads/OneDrive_2024-09-02/POO noite/ConstrutorConta/obj/Debug/net8.0/refint/ConstrutorConta.dll
+C:/Users/aluno/Downloads/OneDrive_2024-09-02/POO noite/ConstrutorConta/obj/Debug/net8.0/ConstrutorConta.pdb
+C:/Users/aluno/Downloads/OneDrive_2024-09-02/POO noite/ConstrutorConta/obj/Debug/net8.0/ConstrutorConta.genruntimeconfig.cache
+C:/Users/aluno/Downloads/OneDrive_2024-09-02/POO noite/ConstrutorConta/obj/Debug/net8.0/ref/ConstrutorConta.dll
+C:/Users/aluno/Downloads/OneDrive_1_04-09-2024/POO noite/ConstrutorConta/obj/Debug/net8.0/ConstrutorConta.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/aluno/Downloads/OneDrive_1_04-09-2024/POO noite/ConstrutorConta/obj/Debug/net8.0/ConstrutorConta.AssemblyInfoInputs.cache
+C:/Users/aluno/Downloads/OneDrive_1_04-09-2024/POO noite/ConstrutorConta/obj/Debug/net8.0/ConstrutorConta.AssemblyInfo.cs
+C:/Users/aluno/Downloads/OneDrive_1_04-09-2024/POO noite/ConstrutorConta/obj/Debug/net8.0/ConstrutorConta.csproj.CoreCompileInputs.cache
+C:/Users/aluno/Downloads/OneDrive_1_04-09-2024/POO noite/ConstrutorConta/obj/Debug/net8.0/ConstrutorConta.dll
+C:/Users/aluno/Downloads/OneDrive_1_04-09-2024/POO noite/ConstrutorConta/obj/Debug/net8.0/ConstrutorConta.pdb
+C:/Users/aluno/Downloads/OneDrive_1_04-09-2024/POO noite/ConstrutorConta/bin/Debug/net8.0/ConstrutorConta.exe
+C:/Users/aluno/Downloads/OneDrive_1_04-09-2024/POO noite/ConstrutorConta/bin/Debug/net8.0/ConstrutorConta.deps.json
+C:/Users/aluno/Downloads/OneDrive_1_04-09-2024/POO noite/ConstrutorConta/bin/Debug/net8.0/ConstrutorConta.runtimeconfig.json
+C:/Users/aluno/Downloads/OneDrive_1_04-09-2024/POO noite/ConstrutorConta/bin/Debug/net8.0/ConstrutorConta.dll
+C:/Users/aluno/Downloads/OneDrive_1_04-09-2024/POO noite/ConstrutorConta/bin/Debug/net8.0/ConstrutorConta.pdb
+C:/Users/aluno/Downloads/OneDrive_1_04-09-2024/POO noite/ConstrutorConta/obj/Debug/net8.0/refint/ConstrutorConta.dll
+C:/Users/aluno/Downloads/OneDrive_1_04-09-2024/POO noite/ConstrutorConta/obj/Debug/net8.0/ConstrutorConta.genruntimeconfig.cache
+C:/Users/aluno/Downloads/OneDrive_1_04-09-2024/POO noite/ConstrutorConta/obj/Debug/net8.0/ref/ConstrutorConta.dll
+/home/amanda/Área de trabalho/POO noite/ConstrutorConta/bin/Debug/net8.0/ConstrutorConta
+/home/amanda/Área de trabalho/POO noite/ConstrutorConta/bin/Debug/net8.0/ConstrutorConta.deps.json
+/home/amanda/Área de trabalho/POO noite/ConstrutorConta/bin/Debug/net8.0/ConstrutorConta.runtimeconfig.json
+/home/amanda/Área de trabalho/POO noite/ConstrutorConta/bin/Debug/net8.0/ConstrutorConta.dll
+/home/amanda/Área de trabalho/POO noite/ConstrutorConta/bin/Debug/net8.0/ConstrutorConta.pdb
+/home/amanda/Área de trabalho/POO noite/ConstrutorConta/obj/Debug/net8.0/ConstrutorConta.GeneratedMSBuildEditorConfig.editorconfig
+/home/amanda/Área de trabalho/POO noite/ConstrutorConta/obj/Debug/net8.0/ConstrutorConta.AssemblyInfoInputs.cache
+/home/amanda/Área de trabalho/POO noite/ConstrutorConta/obj/Debug/net8.0/ConstrutorConta.AssemblyInfo.cs
+/home/amanda/Área de trabalho/POO noite/ConstrutorConta/obj/Debug/net8.0/ConstrutorConta.csproj.CoreCompileInputs.cache
+/home/amanda/Área de trabalho/POO noite/ConstrutorConta/obj/Debug/net8.0/ConstrutorConta.dll
+/home/amanda/Área de trabalho/POO noite/ConstrutorConta/obj/Debug/net8.0/refint/ConstrutorConta.dll
+/home/amanda/Área de trabalho/POO noite/ConstrutorConta/obj/Debug/net8.0/ConstrutorConta.pdb
+/home/amanda/Área de trabalho/POO noite/ConstrutorConta/obj/Debug/net8.0/ConstrutorConta.genruntimeconfig.cache
+/home/amanda/Área de trabalho/POO noite/ConstrutorConta/obj/Debug/net8.0/ref/ConstrutorConta.dll

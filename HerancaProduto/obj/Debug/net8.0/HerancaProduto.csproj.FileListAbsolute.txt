@@ -1,0 +1,14 @@
+C:\Users\aluno\Downloads\OneDrive_2024-09-19\POO noite\HerancaProduto\obj\Debug\net8.0\HerancaProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Downloads\OneDrive_2024-09-19\POO noite\HerancaProduto\obj\Debug\net8.0\HerancaProduto.AssemblyInfoInputs.cache
+C:\Users\aluno\Downloads\OneDrive_2024-09-19\POO noite\HerancaProduto\obj\Debug\net8.0\HerancaProduto.AssemblyInfo.cs
+C:\Users\aluno\Downloads\OneDrive_2024-09-19\POO noite\HerancaProduto\obj\Debug\net8.0\HerancaProduto.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Downloads\OneDrive_2024-09-19\POO noite\HerancaProduto\bin\Debug\net8.0\HerancaProduto.exe
+C:\Users\aluno\Downloads\OneDrive_2024-09-19\POO noite\HerancaProduto\bin\Debug\net8.0\HerancaProduto.deps.json
+C:\Users\aluno\Downloads\OneDrive_2024-09-19\POO noite\HerancaProduto\bin\Debug\net8.0\HerancaProduto.runtimeconfig.json
+C:\Users\aluno\Downloads\OneDrive_2024-09-19\POO noite\HerancaProduto\bin\Debug\net8.0\HerancaProduto.dll
+C:\Users\aluno\Downloads\OneDrive_2024-09-19\POO noite\HerancaProduto\bin\Debug\net8.0\HerancaProduto.pdb
+C:\Users\aluno\Downloads\OneDrive_2024-09-19\POO noite\HerancaProduto\obj\Debug\net8.0\HerancaProduto.dll
+C:\Users\aluno\Downloads\OneDrive_2024-09-19\POO noite\HerancaProduto\obj\Debug\net8.0\refint\HerancaProduto.dll
+C:\Users\aluno\Downloads\OneDrive_2024-09-19\POO noite\HerancaProduto\obj\Debug\net8.0\HerancaProduto.pdb
+C:\Users\aluno\Downloads\OneDrive_2024-09-19\POO noite\HerancaProduto\obj\Debug\net8.0\HerancaProduto.genruntimeconfig.cache
+C:\Users\aluno\Downloads\OneDrive_2024-09-19\POO noite\HerancaProduto\obj\Debug\net8.0\ref\HerancaProduto.dll
